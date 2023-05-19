@@ -121,4 +121,7 @@
   }
 div{
     align-items: left;
-}  
+} 
+body{
+  background-color:#211c2ed8(240, 255, 246);
+}
